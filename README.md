@@ -1,6 +1,6 @@
 # Frontend Mentor - Insure landing page
 
-![Design preview for the Insure landing page coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Insure landing page coding challenge](https://res.cloudinary.com/dz209s6jk/image/upload/v1578936685/Challenges/sp3gewqjnhazsoovtqjm.jpg)
 
 ## Welcome! 👋
 
