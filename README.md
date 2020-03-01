@@ -17,7 +17,7 @@ Challenge is to build out this landing page and get it looking as close to the d
 With simple landing page like this Html,Css,Js with Bootstrap enough to get started.
 
 ## Sharing solution
-
+https://insure-landing-page-challenge.now.sh/
 
 
 
